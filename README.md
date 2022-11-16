@@ -3,7 +3,7 @@ Sisterslab'da aldığımız eğitimler sonunda verilen bitirme ödevi çalışma
 
 Bu işlemler içerisinde;
 
-Veriseti tanımladı,
+Veriseti tanımlandı,
 Veri setine ve içerisindeki değişkenlere ait bilgiler elde edildi,
 Tanımlayıcı istatistikleri elde edildi,
 Veri setindeki NaN, Null, NA değerlerin sayısı belirlendi ve bu değerler silindi veya dolduruldu,
