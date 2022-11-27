@@ -14,5 +14,3 @@ Bazı değişkenlerin isimleri kendisini anlatamadığı için değişikliğe gi
 Grafikler için gerekli veri setleri merge işlemine tabi tutuldu,
 Grafiklerde kullanılmak üzere bazı değişkenlerin değerleri kategorik hale getirildi,
 Grafik olarak lines, bar, pie, üstü üste line, dist plot, korelasyon grafiği, box plot ve plot bar kullanıldı.
-
-gibi açıklamalar eklenicek
