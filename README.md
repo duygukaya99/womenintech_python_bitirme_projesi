@@ -1,6 +1,8 @@
 # womenintech_python_bitirme_projesi
 Sisterslab'da aldığımız eğitimler sonunda verilen bitirme ödevi çalışmasıdır.
 
+README DOSYASI DÜZENLENECEK
+
 Bu işlemler içerisinde;
 
 Veriseti tanımlandı,  
@@ -14,3 +16,5 @@ Bazı değişkenlerin isimleri kendisini anlatamadığı için değişikliğe gi
 Grafikler için gerekli veri setleri merge işlemine tabi tutuldu,  
 Grafiklerde kullanılmak üzere bazı değişkenlerin değerleri kategorik hale getirildi,  
 Grafik olarak lines, bar, pie, üstü üste line, dist plot, korelasyon grafiği, box plot ve plot bar kullanıldı.  
+
+
